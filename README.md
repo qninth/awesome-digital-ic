@@ -3,7 +3,7 @@
 
 - 🚩 = Chinese
 - 📍 = Github Project
-- 👶 = Low threshold
+- 👶 = Easy to get start with
 - ⭐ = Recommended
 - 💬 = More Details
 
