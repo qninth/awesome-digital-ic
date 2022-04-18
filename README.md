@@ -3,6 +3,7 @@
 
 - 🚩 = Chinese
 - 📍 = Github Project
+- 📽 = With vedio
 - 👶 = Easy to get start with
 - ⭐ = Recommended
 - 💬 = More Details
@@ -12,45 +13,54 @@
 - [EDA Playground](https://www.edaplayground.com/) - Edit, save, simulate, synthesize SystemVerilog, Verilog, VHDL and other HDLs from your web browser.
 - [WaveDrom](https://wavedrom.com/) - Digital Timing Diagram everywhere
 
-## Projects
+## Projects and IPs
 
-- [OpenCores](https://opencores.org/) - Free and open source IP cores.
+- [OpenCores](https://opencores.org/)⭐ - Free and open source IP cores.
 - [FreeCores](http://freecores.github.io/) 📍![](freecores/freecores.github.io) - A home for open source hardware cores, a fork of almost all cores that was once on OpenCores.org.
 - [fpga4fun](https://www.fpga4fun.com/) - Some projects build on FPGA.
 
 ### Communication Technology
 
 - [ALEX FORENCICH](http://alexforencich.com/wiki/en/verilog/start) - Verilog IPs including PCIe/Ethernet/I2C/Uart etc.
-- [ALEX FORENCICH - UART](http://github.com/alexforencich/verilog-uart/)📍![](https://img.shields.io/github/stars/alexforencich/verilog-uart)
-- [ALEX FORENCICH - IIC](https://github.com/alexforencich/verilog-i2c)📍![](https://img.shields.io/github/stars/alexforencich/verilog-i2c)
-- [ALEX FORENCICH - AXI](https://github.com/alexforencich/verilog-axi)📍![](https://img.shields.io/github/stars/alexforencich/verilog-axi)
-- [ALEX FORENCICH - AXIS](https://github.com/alexforencich/verilog-axis)📍![](https://img.shields.io/github/stars/alexforencich/verilog-axis)
-- [zipcpu - UART](https://github.com/ZipCPU/wbuart32)📍![](https://img.shields.io/github/stars/ZipCPU/wbuart32)
-- [TVIP - AXI](https://github.com/taichi-ishitani/tvip-axi)📍![](https://img.shields.io/github/stars/taichi-ishitani/tvip-axi)
-- [PULP-platform - AXI](https://github.com/pulp-platform/axi)📍![](https://img.shields.io/github/stars/pulp-platform/axi)
+- [ALEX FORENCICH - UART](http://github.com/alexforencich/verilog-uart/)📍![](https://img.shields.io/github/stars/alexforencich/verilog-uart) - A basic UART to AXI Stream IP core, written in Verilog with cocotb testbenches.
+- [ALEX FORENCICH - IIC](https://github.com/alexforencich/verilog-i2c)📍![](https://img.shields.io/github/stars/alexforencich/verilog-i2c) - I2C interface components. Includes full MyHDL testbench with intelligent bus cosimulation endpoints.
+- [ALEX FORENCICH - AXI](https://github.com/alexforencich/verilog-axi)📍![](https://img.shields.io/github/stars/alexforencich/verilog-axi) - Collection of AXI4 and AXI4 lite bus components. Most components are fully parametrizable in interface widths.
+- [ALEX FORENCICH - AXIS](https://github.com/alexforencich/verilog-axis)📍![](https://img.shields.io/github/stars/alexforencich/verilog-axis) - Collection of AXI Stream bus components. Most components are fully parametrizable in interface widths.
+- [zipcpu - UART](https://github.com/ZipCPU/wbuart32)📍![](https://img.shields.io/github/stars/ZipCPU/wbuart32) - A simple, basic, formally verified UART controller.
+- [TVIP - AXI](https://github.com/taichi-ishitani/tvip-axi)📍![](https://img.shields.io/github/stars/taichi-ishitani/tvip-axi) - An UVM package of AMBA AXI4 VIP.
+- [PULP-platform - AXI](https://github.com/pulp-platform/axi)📍![](https://img.shields.io/github/stars/pulp-platform/axi) - AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication.
 - [C910 - UART](https://github.com/MeDove/openc910/tree/main/smart_run/logical)📍
 - [corundum](https://github.com/corundum/corundum)📍![](https://img.shields.io/github/stars/corundum/corundum)
 
 ### Information Technology
+
 
 #### RISC-V
 
 - [RISC-V Exchange: Cores & SoCs](https://riscv.org/exchanges/cores-socs/) - A list of RICS-V cores and SoCs.
 - [PULP](https://github.com/pulp-platform/pulp) - Open source Parallel Ultra-Low-Power RISC-V core.
 - [openc910](https://github.com/T-head-Semi/openc910)📍![](https://img.shields.io/github/stars/T-head-Semi/openc910) - OpenXuantie C910 Core.
+- [Wujian100](https://github.com/T-head-Semi/wujian100_open)📍![](https://img.shields.io/github/stars/T-head-Semi/wujian100_open) - A MCU base SoC.
+- [picorv32](https://github.com/YosysHQ/picorv32)📍![](https://img.shields.io/github/stars/YosysHQ/picorv32) - A Size-Optimized RISC-V CPU.
+- [darkriscv](https://github.com/darklife/darkriscv)📍![](https://img.shields.io/github/stars/darklife/darkriscv) - A proof of concept for the opensource RISC-V instruction set.
+
+#### Others
+
+- [zipcpu](https://github.com/ZipCPU/zipcpu)⭐📍![](https://img.shields.io/github/stars/ZipCPU/zipcpu) - with detailed comments.
+- [openmsp430](https://opencores.org/projects/openmsp430) - The openMSP430 is a synthesizable 16bit microcontroller core written in Verilog.
 
 ## Tutorials and Courses
 
 - [zipcpu](http://zipcpu.com/tutorial/)👶 - Verilog, Formal Verification and Verilator Beginner's Tutorial
 - [WORLD OF ASIC](http://asic-world.com/)⭐ - A great source of detailed VLSI tutorials and examples.
 
-### Verilog
+### Verilog Grammar
 
 - [ChipVerify: Verilog Tutorial](https://www.chipverify.com/verilog/verilog-tutorial) - A guide for someone new to Verilog.
 - [Verilog/SystemVerilog Guide](https://github.com/mikeroyal/Verilog-SystemVerilog-Guide) 📍![](https://img.shields.io/github/stars/mikeroyal/Verilog-SystemVerilog-Guide) - A guide covering Verilog & SystemVerilog.
 
 
-### VHDL
+### VHDL Grammar
 
 - [VHDL Guide](https://github.com/mikeroyal/VHDL-Guide) 📍![](https://img.shields.io/github/stars/mikeroyal/VHDL-Guide) - A guide covering VHDL.
 
@@ -63,7 +73,7 @@
 - [ClueLogic](http://cluelogic.com) - Providing the clues to solve your verification problems.
 - [ChipVerify](https://www.chipverify.com/) - A simple and complete set of verilog/System Verilog/UVM tutorials.
 
-### CPU
+### Build a CPU
 
 - [RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide) 📍![](https://img.shields.io/github/stars/mikeroyal/RISC-V-Guide) - A guide covering the RISC-V Architecture.
 - [ARM Guide](https://github.com/mikeroyal/ARM-Guide) 📍![](https://img.shields.io/github/stars/mikeroyal/ARM-Guide) - A guide covering ARM architecture.
