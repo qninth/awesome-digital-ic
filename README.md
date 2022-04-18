@@ -12,6 +12,8 @@
 
 - [EDA Playground](https://www.edaplayground.com/) - Edit, save, simulate, synthesize SystemVerilog, Verilog, VHDL and other HDLs from your web browser.
 - [WaveDrom](https://wavedrom.com/) - Digital Timing Diagram everywhere
+- [Icarus Verilog](http://iverilog.icarus.com/)📍[Github](https://github.com/steveicarus/iverilog)![](https://img.shields.io/github/stars/steveicarus/iverilog) - A Verilog simulation and synthesis tool.
+- [GTKWave](http://gtkwave.sourceforge.net/) - GTKWave is a fully featured GTK+ based wave viewer.
 
 ## Projects and IPs
 
@@ -54,8 +56,10 @@
 - [zipcpu](http://zipcpu.com/tutorial/)👶 - Verilog, Formal Verification and Verilator Beginner's Tutorial
 - [WORLD OF ASIC](http://asic-world.com/)⭐ - A great source of detailed VLSI tutorials and examples.
 
+
 ### Verilog Grammar
 
+- [Verilog TUTORIAL for beginners](http://www.referencedesigner.com/tutorials/verilog/verilog_01.php)👶 - A tutorial based upon free Icarus Verilog compiler.
 - [ChipVerify: Verilog Tutorial](https://www.chipverify.com/verilog/verilog-tutorial) - A guide for someone new to Verilog.
 - [Verilog/SystemVerilog Guide](https://github.com/mikeroyal/Verilog-SystemVerilog-Guide) 📍![](https://img.shields.io/github/stars/mikeroyal/Verilog-SystemVerilog-Guide) - A guide covering Verilog & SystemVerilog.
 
