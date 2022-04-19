@@ -101,8 +101,8 @@
 - [RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide) 📍![](https://img.shields.io/github/stars/mikeroyal/RISC-V-Guide) - A guide covering the RISC-V Architecture.
 - [ARM Guide](https://github.com/mikeroyal/ARM-Guide) 📍![](https://img.shields.io/github/stars/mikeroyal/ARM-Guide) - A guide covering ARM architecture.
 - [nand2tetris](https://www.nand2tetris.org/) - Build an advanced computer from nand gate.
-- [Building a RISC-V CPU Core - edX](https://www.edx.org/course/building-a-risc-v-cpu-core) - Build a RISC-V cpu core. No prior knowledge of digital logic design is required.
-- [Build a Modern Computer from First Principles: From Nand to Tetris - coursera](https://www.coursera.org/learn/build-a-computer "依据基本原理构建现代计算机：从与非门到俄罗斯方块（基于项目的课程）") - Build a modern computer system.
+- [Building a RISC-V CPU Core - edX](https://www.edx.org/course/building-a-risc-v-cpu-core) 📽 - Build a RISC-V cpu core. No prior knowledge of digital logic design is required.
+- [Build a Modern Computer from First Principles: From Nand to Tetris - coursera](https://www.coursera.org/learn/build-a-computer "依据基本原理构建现代计算机：从与非门到俄罗斯方块（基于项目的课程）") 📽 - Build a modern computer system.
 
 ### FPGA
 
