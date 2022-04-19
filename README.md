@@ -56,9 +56,9 @@
 - [zipcpu](https://github.com/ZipCPU/zipcpu) ⭐📍![](https://img.shields.io/github/stars/ZipCPU/zipcpu) - with detailed comments.
 - [openmsp430](https://opencores.org/projects/openmsp430) - The openMSP430 is a synthesizable 16bit microcontroller core written in Verilog.
 
-## Tutorials and Courses
+## Tutorials and Courses 💬[Intro](./tree/master/Tutorials%20and%20Courses/index.md)
 
-💬[Intro](./tree/master/Tutorials%20and%20Courses/index.md)
+
 
 - [zipcpu](http://zipcpu.com/tutorial/) 👶 - Verilog, Formal Verification and Verilator Beginner's Tutorial
 - [WORLD OF ASIC](http://asic-world.com/) ⭐ - A great source of detailed VLSI tutorials and examples.
