@@ -56,7 +56,7 @@
 - [zipcpu](https://github.com/ZipCPU/zipcpu) ⭐📍![](https://img.shields.io/github/stars/ZipCPU/zipcpu) - with detailed comments.
 - [openmsp430](https://opencores.org/projects/openmsp430) - The openMSP430 is a synthesizable 16bit microcontroller core written in Verilog.
 
-## Tutorials and Courses 💬[Intro](./main/Tutorials%20and%20Courses/index.md)
+## Tutorials and Courses 💬[Intro](./Tutorials%20and%20Courses/index.md)
 
 
 
