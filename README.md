@@ -25,7 +25,7 @@
 ## Projects and IPs
 
 - [OpenCores](https://opencores.org/) ⭐ - Free and open source IP cores.
-- [FreeCores](http://freecores.github.io/) 📍![stars](freecores/freecores.github.io) - A home for open source hardware cores, a fork of almost all cores that was once on OpenCores.org.
+- [FreeCores](http://freecores.github.io/) 📍![stars](https://img.shields.io/github/stars/freecores/freecores.github.io) - A home for open source hardware cores, a fork of almost all cores that was once on OpenCores.org.
 - [fpga4fun](https://www.fpga4fun.com/) - Some projects build on FPGA.
 
 ### Communication Technology
@@ -132,7 +132,7 @@
 
 ### Mobile Phone
 
-- [与门](https://www.taptap.com/app/196676) - Build an adder from nand.
+- [与门](https://www.taptap.com/app/196676) 🚩 - Build an adder from nand.
 
 > Discuss:
 > QQ Group 830367636
