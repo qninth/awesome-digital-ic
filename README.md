@@ -151,7 +151,7 @@
 
 - [HDL bits](https://hdlbits.01xz.net/wiki/Main_Page) - A collection of small circuit design exercises for practicing digital hardware design using Verilog Hardware Description Language (HDL).
 - [USTC Verilog OJ](https://verilogoj.ustc.edu.cn/oj) 🚩 - A verilog online judge service
-- [HDL bits](https://hdlbits.01xz.net/wiki/Main_Page) - An EE World Online Resource.
+- [nowcoder - Verilog Part](https://www.nowcoder.com/exam/oj?page=1&tab=Verilog%E7%AF%87&topicId=301) - A verilog oj platform.
 
 ## Games
 
