@@ -29,6 +29,12 @@
 - [vhdl](https://github.com/topics/vhdl?o=desc&s=stars) 📍- Here are 1,766 public repositories matching "vhdl" topic...
 - [fpga](https://github.com/topics/fpga?o=desc&s=stars) 📍 - Here are 3,136 public repositories matching "fpga" topic...
 
+### Quora Topics
+
+- [verilog](https://github.com/topics/verilog?o=desc&s=stars) 📍 - Here are 2,566 public repositories matching "verilog" topic...
+- [vhdl](https://github.com/topics/vhdl?o=desc&s=stars) 📍- Here are 1,766 public repositories matching "vhdl" topic...
+- [fpga](https://github.com/topics/fpga?o=desc&s=stars) 📍 - Here are 3,136 public repositories matching "fpga" topic...
+
 ## Projects and IPs
 
 - [OpenCores](https://opencores.org/) ⭐ - Free and open source IP cores.
@@ -138,6 +144,14 @@
 ## Forums
 
 - [EETOP](https://bbs.eetop.cn/) 🚩 - The most popular IC bbs in China.
+- [edaboard](https://www.edaboard.com/) - An EE World Online Resource.
+- [极术社区](https://aijishu.com/) 🚩 - A bbs sponsered by Arm China.
+
+## Online Judge Platforms
+
+- [HDL bits](https://hdlbits.01xz.net/wiki/Main_Page) - A collection of small circuit design exercises for practicing digital hardware design using Verilog Hardware Description Language (HDL).
+- [USTC Verilog OJ](https://verilogoj.ustc.edu.cn/oj) 🚩 - A verilog online judge service
+- [HDL bits](https://hdlbits.01xz.net/wiki/Main_Page) - An EE World Online Resource.
 
 ## Games
 
