@@ -41,6 +41,7 @@
 - [FreeCores](http://freecores.github.io/) 📍![stars](https://img.shields.io/github/stars/freecores/freecores.github.io) - A home for open source hardware cores, a fork of almost all cores that was once on OpenCores.org.
 - [Must-have verilog systemverilog modules](https://github.com/pConst/basic_verilog) 📍![stars](https://img.shields.io/github/stars/pConst/basic_verilog) - A collection of verilog systemverilog synthesizable modules.
 - [fpga4fun](https://www.fpga4fun.com/) - Some projects build on FPGA.
+- [32 Verilog Mini Projects](https://github.com/sudhamshu091/32-Verilog-Mini-Projects/) 📍![stars](https://img.shields.io/github/stars/sudhamshu091/32-Verilog-Mini-Projects) - 32 useful mini verilog projects for beginners.
 
 ### Communication Technology
 
@@ -104,7 +105,7 @@
 #### Chisel
 
 - [Learning Chisel and Scala Part I](https://vvviy.github.io/2018/12/01/Learning-Chisel-and-Scala-Part-I/) [Part II](https://vvviy.github.io/2018/12/12/Learning-Chisel-and-Scala-Part-II/) 🚩📍[Github](https://github.com/VVViy/VVViy.github.io)![stars](https://img.shields.io/github/stars/SpinalHDL/SpinalHDL) - A tutorial for chisel, no scala knowledge required.
-- [Chisel/FIRRTL](https://www.chisel-lang.org/) [Doc](https://www.chisel-lang.org/chisel3/docs/introduction.html) 📍[Github](https://github.com/chipsalliance/chisel3)![stars](https://img.shields.io/github/stars/chipsalliance/chisel3) - Scala based HDL.
+- [Chisel/FIRRTL](https://www.chisel-lang.org/) 💬[Doc](https://www.chisel-lang.org/chisel3/docs/introduction.html) 📍[Github](https://github.com/chipsalliance/chisel3)![stars](https://img.shields.io/github/stars/chipsalliance/chisel3) - Scala based HDL.
 
 #### SpinalHDL
 
@@ -130,6 +131,7 @@
 
 ### FPGA
 
+- [FPGA Tutorial](https://github.com/LeiWang1999/FPGA) 🚩 📍![stars](https://img.shields.io/github/stars/LeiWang1999/FPGA) - Sharing excellent articles and projects related to FPGA.
 - [Complex Programmable Logic Device (CPLD) Guide](https://github.com/mikeroyal/CPLD-Guide) 📍![stars](https://img.shields.io/github/stars/mikeroyal/CPLD-Guide) - A guide covering CPLD.
 
 ## Tools
@@ -139,6 +141,7 @@
 - [WaveDrom](https://wavedrom.com/) - Digital Timing Diagram everywhere
 - [Icarus Verilog](http://iverilog.icarus.com/) 📍[Github](https://github.com/steveicarus/iverilog)![stars](https://img.shields.io/github/stars/steveicarus/iverilog) - A Verilog simulation and synthesis tool.
 - [GTKWave](http://gtkwave.sourceforge.net/) - GTKWave is a fully featured GTK+ based wave viewer.
+- [OpenROAD](https://theopenroadproject.org/) 💬[Doc](https://openroad.readthedocs.io/en/latest/main/README.html) 📍[Github](https://github.com/The-OpenROAD-Project/OpenROAD)![stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD) - An RTL-to-GDS Flow
 - More information about hardware dv tools on [Awesome Open Hardware Verification - Tools](https://github.com/ben-marshall/awesome-open-hardware-verification#Tools) and [Awesome HWD Tools](https://github.com/TM90/awesome-hwd-tools)
 
 ## Forums
