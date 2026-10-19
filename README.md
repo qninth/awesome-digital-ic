@@ -183,6 +183,39 @@
 
 - More information about hardware dv tools on [Awesome Open Hardware Verification - Tools](https://github.com/ben-marshall/awesome-open-hardware-verification#Tools) and [Awesome HWD Tools](https://github.com/TM90/awesome-hwd-tools)
 
+## AI × Chip Design
+
+> LLM/AI-powered chip design, verification and EDA projects.
+
+### LLM for RTL Generation & Verification
+
+- [RTL-Coder](https://github.com/hkust-zhiyao/RTL-Coder) 📍![stars](https://img.shields.io/github/stars/hkust-zhiyao/RTL-Coder) - LLM solution for RTL code generation, state-of-the-art performance.
+- [VeriReason](https://github.com/NellyW8/VeriReason) 📍![stars](https://img.shields.io/github/stars/NellyW8/VeriReason) - Reinforcement learning with testbench feedback for Verilog code generation.
+- [HaVen](https://github.com/Intelligent-Computing-Research-Group/HaVen) 📍![stars](https://img.shields.io/github/stars/Intelligent-Computing-Research-Group/HaVen) - Hallucination-mitigated LLM for Verilog code generation aligned with HDL semantics. (DATE 2025)
+- [ChipMATE](https://github.com/zhongkaiyu/ChipMATE) 📍![stars](https://img.shields.io/github/stars/zhongkaiyu/ChipMATE) - Multi-agent inference framework for RTL generation with Verilog and Python reference agents.
+- [veriflow-cc](https://github.com/bjwanneng/veriflow-cc) 📍![stars](https://img.shields.io/github/stars/bjwanneng/veriflow-cc) - Claude Code-driven RTL design pipeline, from architecture to verification.
+- [rtl-skills](https://github.com/phamcuong21478/rtl-skills) 📍![stars](https://img.shields.io/github/stars/phamcuong21478/rtl-skills) - Claude Code skills & agents automating a full RTL/Verilog design flow.
+- [TraceWeave](https://github.com/gokeshenzhen/TraceWeave) 📍![stars](https://img.shields.io/github/stars/gokeshenzhen/TraceWeave) - Evidence-driven MCP server for RTL simulation debugging.
+
+### EDA Agents
+
+- [ChatEDA](https://github.com/wuhy68/ChatEDA) 📍![stars](https://img.shields.io/github/stars/wuhy68/ChatEDA) - Large language model powered autonomous agent for EDA. (TCAD'24, NAACL'25)
+- [circuit_training](https://github.com/google-research/circuit_training) 📍![stars](https://img.shields.io/github/stars/google-research/circuit_training) - Google's open-source RL-based macro placement (the open counterpart of AlphaChip).
+
+### Benchmarks for AI-aided Chip Design
+
+- [VerilogEval](https://github.com/NVlabs/verilog-eval) 📍![stars](https://img.shields.io/github/stars/NVlabs/verilog-eval) - NVIDIA's evaluation benchmark for LLM Verilog generation.
+- [RTLLM](https://github.com/hkust-zhiyao/RTLLM) 📍![stars](https://img.shields.io/github/stars/hkust-zhiyao/RTLLM) - Open-source benchmark for generating design RTL with natural language.
+- [TuRTLe](https://github.com/HPAI-BSC/TuRTLe) 📍![stars](https://img.shields.io/github/stars/HPAI-BSC/TuRTLe) - Unified evaluation framework for LLMs on RTL generation. (MLCAD 2025)
+- [ChipBench](https://github.com/zhongkaiyu/ChipBench) 📍![stars](https://img.shields.io/github/stars/zhongkaiyu/ChipBench) - Comprehensive benchmark for AI-aided chip design.
+- [ICRTL-Benchmark](https://github.com/weiber2002/ICRTL-Benchmark) 📍![stars](https://img.shields.io/github/stars/weiber2002/ICRTL-Benchmark) - Industrial-level RTL design challenges for evaluating PPA optimization.
+
+### More AI × IC Lists
+
+- [Awesome-LLM-Circuit-Agent](https://github.com/qhy991/Awesome-LLM-Circuit-Agent) 📍![stars](https://img.shields.io/github/stars/qhy991/Awesome-LLM-Circuit-Agent) - Academic works on RTL and analog circuit generation based on LLM agents.
+- [Awesome-AI-for-Chip-Design](https://github.com/chateda-ichip/Awesome-AI-for-Chip-Design) 📍![stars](https://img.shields.io/github/stars/chateda-ichip/Awesome-AI-for-Chip-Design) - Community-maintained list of ML/LLM research and tools for IC design.
+- [Awesome-Surveys-of-LLM4EDA](https://github.com/DolbyUUU/Awesome-Surveys-of-LLM4EDA) 📍![stars](https://img.shields.io/github/stars/DolbyUUU/Awesome-Surveys-of-LLM4EDA) - Surveys and reviews on LLM applications in EDA.
+
 ## Forums
 
 - [EETOP](https://bbs.eetop.cn/) 🚩 - The most popular IC bbs in China.
