@@ -145,6 +145,15 @@
 - [slang](https://github.com/MikePopoloski/slang) 📍![stars](https://img.shields.io/github/stars/MikePopoloski/slang) - SystemVerilog language compiler and language services.
 - [slang-format](https://github.com/sstallion/slang-format) 📍![stars](https://img.shields.io/github/stars/sstallion/slang-format) - SystemVerilog code formatter.
 - [xezim](https://github.com/aionhw/xezim) 📍![stars](https://img.shields.io/github/stars/aionhw/xezim) - Open-source SystemVerilog simulator in Rust. 4-state, event-driven.
+- [Verilator](https://github.com/verilator/verilator) 📍![stars](https://img.shields.io/github/stars/verilator/verilator) - Open-source SystemVerilog simulator and lint system.
+- [Yosys](https://github.com/YosysHQ/yosys) 📍![stars](https://img.shields.io/github/stars/YosysHQ/yosys) - Open synthesis suite for digital designs.
+- [verible](https://github.com/chipsalliance/verible) 📍![stars](https://img.shields.io/github/stars/chipsalliance/verible) - A suite of SystemVerilog developer tools: parser, formatter, linter, language server.
+- [svlint](https://github.com/dalance/svlint) 📍![stars](https://img.shields.io/github/stars/dalance/svlint) - SystemVerilog linter.
+- [sv2v](https://github.com/zachjs/sv2v) 📍![stars](https://img.shields.io/github/stars/zachjs/sv2v) - SystemVerilog to Verilog conversion.
+- [oss-cad-suite](https://github.com/YosysHQ/oss-cad-suite-build) 📍![stars](https://img.shields.io/github/stars/YosysHQ/oss-cad-suite-build) - Multi-platform nightly builds of open source digital design and verification tools.
+- [Surfer](https://gitlab.com/surfer-project/surfer) - An open-source waveform viewer built for performance, alternative to GTKWave.
+- [WAL](https://github.com/ics-jku/wal) 📍![stars](https://img.shields.io/github/stars/ics-jku/wal) - A waveform analysis language enabling programmable waveform analysis.
+- [wave-mcp](https://github.com/Tencent/wave-mcp) 📍![stars](https://img.shields.io/github/stars/Tencent/wave-mcp) - MCP server for RTL waveform debug: reads FST/VCD waves for AI agents.
 
 ### Verification
 
@@ -153,6 +162,24 @@
 - [uvm-python](https://github.com/tpoikela/uvm-python) 📍![stars](https://img.shields.io/github/stars/tpoikela/uvm-python) - UVM 1.2 port to Python.
 - [uvm_bridge](https://github.com/Dragon-Git/uvm_bridge) 📍![stars](https://img.shields.io/github/stars/Dragon-Git/uvm_bridge) - Bridge SystemVerilog UVM APIs (factory, config_db, report, registers, HDL access) to Python via DPI-C; modify stimuli without recompiling. Works with [uvm-verilator](https://github.com/Dragon-Git/uvm-verilator) or [xezim](https://github.com/aionhw/xezim).
 - [verdi_bridge](https://github.com/RuihongY/verdi_bridge) 📍![stars](https://img.shields.io/github/stars/RuihongY/verdi_bridge) - Connect AI agents to a live Synopsys Verdi session through MCP: waveforms, signals and more.
+- [svunit](https://github.com/svunit/svunit) 📍![stars](https://img.shields.io/github/stars/svunit/svunit) - A unit test framework for SystemVerilog RTL code.
+- [VUnit](https://github.com/VUnit/vunit) 📍![stars](https://img.shields.io/github/stars/VUnit/vunit) - A unit testing framework for VHDL/SystemVerilog with incremental and continuous testing support.
+- [pyvsc](https://github.com/fvutils/pyvsc) 📍![stars](https://img.shields.io/github/stars/fvutils/pyvsc) - Verification stimulus and coverage library with constrained-randomization for cocotb.
+- [cocotb-coverage](https://github.com/mciepluc/cocotb-coverage) 📍![stars](https://img.shields.io/github/stars/mciepluc/cocotb-coverage) - Functional coverage and constrained randomization extensions for cocotb.
+- [cocotbext-axi](https://github.com/alexforencich/cocotbext-axi) 📍![stars](https://img.shields.io/github/stars/alexforencich/cocotbext-axi) - AXI/AXI Lite/AXI Stream interface modules for cocotb. See also [cocotbext-pcie](https://github.com/alexforencich/cocotbext-pcie), [cocotbext-eth](https://github.com/alexforencich/cocotbext-eth), [cocotbext-i2c](https://github.com/alexforencich/cocotbext-i2c), [cocotbext-uart](https://github.com/alexforencich/cocotbext-uart), [cocotbext-spi](https://github.com/schang412/cocotbext-spi), [cocotbext-wishbone](https://github.com/wallento/cocotbext-wishbone).
+
+### Register Generation
+
+- [SystemRDL Compiler](https://github.com/SystemRDL/systemrdl-compiler) 📍![stars](https://img.shields.io/github/stars/SystemRDL/systemrdl-compiler) - SystemRDL 2.0 language compiler front-end.
+- [PeakRDL](https://github.com/SystemRDL/PeakRDL-regblock) 📍![stars](https://img.shields.io/github/stars/SystemRDL/PeakRDL-regblock) - Generate register RTL, UVM reg models, docs, and C headers from SystemRDL. See [PeakRDL-uvm](https://github.com/SystemRDL/PeakRDL-uvm), [PeakRDL-html](https://github.com/SystemRDL/PeakRDL-html), [PeakRDL-python](https://github.com/krcb197/PeakRDL-python).
+- [RGGen](https://github.com/rggen/rggen) 📍![stars](https://img.shields.io/github/stars/rggen/rggen) - Code generation tool for control and status registers.
+- [ORDT](https://github.com/Juniper/open-register-design-tool) 📍![stars](https://img.shields.io/github/stars/Juniper/open-register-design-tool) - Generate register RTL, models, and docs using SystemRDL or JSpec.
+
+### Project Management & Build
+
+- [FuseSoC](https://github.com/olofk/fusesoc) 📍![stars](https://img.shields.io/github/stars/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development.
+- [Edalize](https://github.com/olofk/edalize) 📍![stars](https://img.shields.io/github/stars/olofk/edalize) - An abstraction library for interfacing EDA tools.
+- [SymbiYosys](https://github.com/YosysHQ/sby) 📍![stars](https://img.shields.io/github/stars/YosysHQ/sby) - Front-end for Yosys-based formal verification flows.
 
 - More information about hardware dv tools on [Awesome Open Hardware Verification - Tools](https://github.com/ben-marshall/awesome-open-hardware-verification#Tools) and [Awesome HWD Tools](https://github.com/TM90/awesome-hwd-tools)
 
