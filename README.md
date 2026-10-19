@@ -142,6 +142,18 @@
 - [Icarus Verilog](http://iverilog.icarus.com/) 📍[Github](https://github.com/steveicarus/iverilog)![stars](https://img.shields.io/github/stars/steveicarus/iverilog) - A Verilog simulation and synthesis tool.
 - [GTKWave](http://gtkwave.sourceforge.net/) - GTKWave is a fully featured GTK+ based wave viewer.
 - [OpenROAD](https://theopenroadproject.org/) 💬[Doc](https://openroad.readthedocs.io/en/latest/main/README.html) 📍[Github](https://github.com/The-OpenROAD-Project/OpenROAD)![stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD) - An RTL-to-GDS Flow
+- [slang](https://github.com/MikePopoloski/slang) 📍![stars](https://img.shields.io/github/stars/MikePopoloski/slang) - SystemVerilog language compiler and language services.
+- [slang-format](https://github.com/sstallion/slang-format) 📍![stars](https://img.shields.io/github/stars/sstallion/slang-format) - SystemVerilog code formatter.
+- [xezim](https://github.com/aionhw/xezim) 📍![stars](https://img.shields.io/github/stars/aionhw/xezim) - Open-source SystemVerilog simulator in Rust. 4-state, event-driven.
+
+### Verification
+
+- [cocotb](https://github.com/cocotb/cocotb) 📍![stars](https://img.shields.io/github/stars/cocotb/cocotb) - A coroutine-based cosimulation library for writing testbenches in Python.
+- [pyuvm](https://github.com/pyuvm/pyuvm) 📍![stars](https://img.shields.io/github/stars/pyuvm/pyuvm) - The UVM written in pure Python.
+- [uvm-python](https://github.com/tpoikela/uvm-python) 📍![stars](https://img.shields.io/github/stars/tpoikela/uvm-python) - UVM 1.2 port to Python.
+- [uvm_bridge](https://github.com/Dragon-Git/uvm_bridge) 📍![stars](https://img.shields.io/github/stars/Dragon-Git/uvm_bridge) - Bridge SystemVerilog UVM APIs (factory, config_db, report, registers, HDL access) to Python via DPI-C; modify stimuli without recompiling. Works with [uvm-verilator](https://github.com/Dragon-Git/uvm-verilator) or [xezim](https://github.com/aionhw/xezim).
+- [verdi_bridge](https://github.com/RuihongY/verdi_bridge) 📍![stars](https://img.shields.io/github/stars/RuihongY/verdi_bridge) - Connect AI agents to a live Synopsys Verdi session through MCP: waveforms, signals and more.
+
 - More information about hardware dv tools on [Awesome Open Hardware Verification - Tools](https://github.com/ben-marshall/awesome-open-hardware-verification#Tools) and [Awesome HWD Tools](https://github.com/TM90/awesome-hwd-tools)
 
 ## Forums
